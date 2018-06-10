@@ -1,0 +1,1 @@
+App simples em React que utiliza a API do GIPHY para realizar a busca de gifs.
